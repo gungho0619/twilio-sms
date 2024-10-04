@@ -11,6 +11,7 @@ AUTH_TOKEN =  "815..................."
 ACCOUNT_SID = "AC...................."
 VERITY_SERVICE_SID = "VA............."
 PHONE_NUMBER = "+123456789"
+PORT = 8000
 ```
 
 ## Run Locally
